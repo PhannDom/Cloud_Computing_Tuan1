@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * @author thres
- *
- */
 package mypack;
+
